@@ -1,4 +1,4 @@
-// AeroVoltPower Website
+// AeroVolt Power Website
 // Version 1.0
 
 document.addEventListener("DOMContentLoaded", function () {

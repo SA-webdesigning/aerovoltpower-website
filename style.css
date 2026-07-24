@@ -73,15 +73,9 @@ header .container{
 
 .logo{
 
-    font-size:32px;
+    display:flex;
 
-    font-family:'Poppins',sans-serif;
-
-    font-weight:700;
-
-    color:#0F4C81;
-
-    letter-spacing:-0.5px;
+    align-items:center;
 
     text-decoration:none;
 
@@ -95,9 +89,13 @@ header .container{
 
 }
 
-.logo span{
+.logo img{
 
-    color:#58B947;
+    height:58px;
+
+    width:auto;
+
+    display:block;
 
 }
 

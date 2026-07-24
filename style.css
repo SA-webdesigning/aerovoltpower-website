@@ -90,13 +90,9 @@ header .container{
 }
 
 .logo img{
-
-    height:58px;
-
+    max-height:42px;
     width:auto;
-
     display:block;
-
 }
 
 nav ul{

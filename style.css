@@ -67,7 +67,7 @@ header .container{
 
     align-items:center;
 
-    padding:18px 0;
+    padding:14px 0;
 
 }
 
@@ -90,7 +90,7 @@ header .container{
 }
 
 .logo img{
-    max-height:52px;
+    height:60px;
     width:auto;
     display:block;
 }
